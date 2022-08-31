@@ -1,0 +1,27 @@
+	Algoritma
+		Step 1 Mendeklarasikan volume, luas, jari-jari, tinggi, dan pi.
+
+		Step 2 Masukan jari-jari = 3, tinggi = 5 .
+
+		Step 3 Menghitung luas = pi*jari-jari*jari-jari .
+
+		Step 4 Menghitung volume = luas*tinggi .
+
+		Step 4 Menampilkan volume.
+
+	Pseudocode
+
+		Deklarasi
+
+		var volume, luas, jari-jari, tinggi, pi
+
+		jari-jari = 3
+		tinggi = 5
+
+		luas = pi*jari-jari*jari-jari
+
+		volume = luas*tinggi
+
+		write(volume)
+
+		return 0
